@@ -1,4 +1,4 @@
-# rEFInd theme Regular
+# rEFInd theme
 
 A simplistic clean and minimal theme for [rEFInd](https://www.rodsbooks.com/refind/index.html)
 
